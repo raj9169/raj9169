@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raj Kushwaha
-- 🌱 I’m have Completed Master
+- 🌱 I have Completed Master in Computer Applicatioin.
 
 <!---
 raj9169/raj9169 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
